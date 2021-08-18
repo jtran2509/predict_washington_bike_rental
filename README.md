@@ -5,8 +5,10 @@
 - **Goal**: Predict the total number of bikes people rented in a given hour
 
 ## Built With
-[Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+[Python](https://en.wikipedia.org/wiki/Python_(programming_language)
+
 [Numpy](https://en.wikipedia.org/wiki/NumPy)
+
 [Pandas](https://en.wikipedia.org/wiki/PANDAS)
 
 ## Usage
